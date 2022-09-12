@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 249px;
+    position: fixed;
+    top: 0;
+}
+
+#headercima {
+    width: 100%;
+    height: 56px;
+    background-color: rgb(6,  75, 50);
+    display: inline-;
+}
+
+#headerbaixo {
+    width: 100%;
+    height: 194px;
+    background-color: rgb(33, 102, 69);
+}
+
+#headercima p {
+    color: white;
+
+}
